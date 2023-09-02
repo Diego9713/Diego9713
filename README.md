@@ -1,6 +1,6 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/97109026?v=4" />
-   <h3 align="center">¡Hola 👋! Soy Diego Santiago 👨🏻‍💻</h3>
+   <img align="center" width="200" style="color:blue" src="https://avatars.githubusercontent.com/u/97109026?v=4" />
+   <h3 align="center" style="color:blue">¡Hola 👋! Soy Diego Santiago 👨🏻‍💻</h3>
 </p>
 
 <p align="center">Soy <strong>Desarrollador Java Backend</strong> Junior.<br />¡Mis Redes Sociales 👇!</p>
