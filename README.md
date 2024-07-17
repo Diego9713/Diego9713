@@ -32,7 +32,7 @@
    <h3 align="center" style="color:blue">¡Hola 👋! Soy Diego Santiago 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Java Backend</strong> Junior.<br />¡Mis Redes Sociales 👇!</p>
+<p align="center">Soy <strong>Desarrollador Java Backend</strong>.<br />¡Mis Redes Sociales 👇!</p>
 
 ### Other
 
